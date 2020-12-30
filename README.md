@@ -1,12 +1,13 @@
-# Flip-stencil
+# Split-Flap-Stencil
 
-The flip-stencil is part of the Flip-Clock v2 project. It basically includes 3D design and print files for stencil tools that allow makers paint their own flip digits with spray paint.
+The split-flap-stencil is part of the SplitFlapClock project. It basically includes 3D design and print files for stencil tools that allow makers paint their own flip digits with spray paint.
 
-The flip-stencil project includes:
+The split-flap-stencil project includes:
 
 - Stencils for two digit numers from 00 to 59.
 - Stencils for weather icons corresponding to the darksky API.
-- Generic base for flap-24 and flap-60 (specific flaps for 24 and 60 flap drums of Flip-Clock v2 project)
+- Stencils for weather icons corresponding to the openweathermap API.
+- Generic base for flap-24 and flap-60 (specific flaps for 24 and 60 flap drums of SplitFlapClock project)
 
 ## Printing parts
 
